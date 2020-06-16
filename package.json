@@ -1,0 +1,23 @@
+{
+  "name": "practicing-react",
+  "version": "1.0.0",
+  "description": "Repository for practicing react!",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alti21/Practicing-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alti21/Practicing-React/issues"
+  },
+  "homepage": "https://github.com/alti21/Practicing-React#readme"
+}
